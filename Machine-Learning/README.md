@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project aims to predict the difficulty rating of chess puzzles using machine learning techniques. We use a dataset from Lichess, which contains rich information about chess puzzles, including board positions, moves, and various metadata.
+This project aims to predict the difficulty rating of chess puzzles using machine learning techniques. We used a dataset from Lichess, which contains rich information about chess puzzles, including board positions, moves, and various metadata.
+The entire data was about 4 million rows and it was taking forever to process.. so we got a chunk of the data (10000 rows). In the near future, we will improve the model by using the entire dataset
 
 ## Dataset
 
